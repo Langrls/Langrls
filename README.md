@@ -4,7 +4,7 @@
 - 🌱 Atualmente cursando Sistemas de Informação na FIAP
 <div align="center">
   <a href="https://github.com/Langrls"
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Langrls&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Langrls&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true%22/%3E
      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langrls&layout=compact&langs_count=7&theme=radical%22/%3E
 </div>
